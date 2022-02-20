@@ -1,0 +1,132 @@
+{
+  "navigation": [
+    {
+      "name": "About Us",
+      "href": "mainHero"
+    },
+    {
+      "name": "What We Do",
+      "href": "product"
+    },
+    {
+      "name": "Live Courses",
+      "href": "features"
+    },
+
+    {
+      "name": "Pricing",
+      "href": "pricing"
+    },
+
+    {
+      "name": "Contact Us",
+      "href": "mailto:codingconquerors@gmail.com?subject=I want to enroll in one of the IT courses!"
+    }
+  ],
+
+  "mainHero": {
+    "title": "About Us",
+    "description": "We are a team of highly experienced IT professionals who help IT students and IT freshers in meeting their career objectives. We transform their lives by helping them in getting IT jobs as per current IT job market requirement. We already have helped hundred of students to get jobs in IT sector.",
+    "img": "/assets/images/coding2.jpeg"
+  },
+  "product": {
+    "title": "What We Do",
+    "items": [
+      {
+        "title": "We are the answer to the following questions:",
+        "description": "1. Are you a computer science or an IT student who is afraid of coding? We can help you in conquering this fear within a month.\n 2. Are you a computer science or an IT student who is worried about securing a job in IT? If yes, then we can guide you in securing an IT job. \n 3. Are you an unemployed IT graduate who is lost in today's technology stack and not sure from where to start. If yes, then we can help you in choosing the appropriate tech stack and securing a job. \n 4. Are you a former IT professional who is newly immigrated to North America but is not able to get a job? If yes, then you are in right place, we can help you in securing a job.\n 5. Are you a former IT graduate who had to leave the IT field because of some personal reason and looking back to get an entry into the IT field? If yes, then you are in the right place.",
+        "img": "/assets/images/product1.jpg"
+      },
+      {
+        "title": "How We Do",
+        "description": "We believe that no student is a bad student, he/she just does not get a good teacher. We reach to the level of understanding a student has and from there we help in evolving the student.",
+        "img": "/assets/images/product2.jpg"
+      }
+    ]
+  },
+  "features": {
+    "title": "Live IT Courses ",
+    "subtitle": "We offer all the best technologies courses!",
+    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "items": [
+      {
+        "name": "BackEnd Course",
+        "description": "1. Understanding basics of Microservices, MVC Design pattern, and Restful Webservices\n2. Implementing HTTP methods, exception handling in Spring Boot\n3. Interaction with database (CRUD operations. using JPA and H2 Database\n4. HATEOAS, Internationalization, Content Negotiation, Dynamic and static filtering for Restful Services\n5. Implementing Swagger documentation and Monitoring APIs with Spring Boot Actuator, HAL explorer, Restful services versioning\n6. Authentication using Spring Security and JWT\n7. Introduction to Apache camel and implementing Spring boot Webservices using apache camel routes\n8. Implementing various important Microservices concepts such as Zuul, Eureka, Ribbon and Feign, Zipkin and Hystrix\n9. Introduction to Docker and Kubernetes and use them with Spring boot Microservices\n10. Adding test cases into Microservices using Mocks (unit, functional, and integration.\n11. Introduction to Gradle and creating build.gradle file and run different tasks such as clean, build, jocoko test report, etc.\n12. Understanding CI/CD and integrating a project with the jenkins build tool\n13. How to debug a microservice project and how to do dynamic and static Code reviews\n14. Call one microservice to another microservice using synchronous and asynchronous methods\n15. Microservices Design patterns",
+        "icon": "/assets/images/react.png"
+      },
+      {
+        "name": "FrontEnd Course",
+        "description": "1. Understanding basics of Microservices, MVC Design pattern, and Restful Webservices\n2. Implementing HTTP methods, exception handling in Spring Boot\n3. Interaction with database (CRUD operations. using JPA and H2 Database\n4. HATEOAS, Internationalization, Content Negotiation, Dynamic and static filtering for Restful Services\n5. Implementing Swagger documentation and Monitoring APIs with Spring Boot Actuator, HAL explorer, Restful services versioning\n6. Authentication using Spring Security and JWT\n7. Introduction to Apache camel and implementing Spring boot Webservices using apache camel routes\n8. Implementing various important Microservices concepts such as Zuul, Eureka, Ribbon and Feign, Zipkin and Hystrix\n9. Introduction to Docker and Kubernetes and use them with Spring boot Microservices\n10. Adding test cases into Microservices using Mocks (unit, functional, and integration.\n11. Introduction to Gradle and creating build.gradle file and run different tasks such as clean, build, jocoko test report, etc.\n12. Understanding CI/CD and integrating a project with the jenkins build tool\n13. How to debug a microservice project and how to do dynamic and static Code reviews\n14. Call one microservice to another microservice using synchronous and asynchronous methods\n15. Microservices Design patterns",
+        "icon": "/assets/images/tailwindcss.svg"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing",
+    "items": [
+      {
+        "name": "Free",
+        "price": "$0",
+        "priceDetails": "for one user",
+        "features": [
+          "1 user",
+          "Basic Support",
+          "1 GB of storage",
+          "Email support"
+        ]
+      },
+      {
+        "name": "Pro",
+        "price": "$15",
+        "priceDetails": "per user",
+
+        "features": [
+          "5 users",
+          "Priority Support",
+          "10 GB of storage",
+          "Phone and Email support"
+        ]
+      },
+      {
+        "name": "Enterprise",
+        "price": "$29",
+        "priceDetails": "per user",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ]
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      },
+      {
+        "name": "Something",
+        "href": "#",
+        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+      }
+    ],
+    "socialMedia": {
+      "github": "https://github.com/codingconquerors",
+      "twitter": "https://twitter.com/codingconquerors",
+      "linkedin": "https://www.linkedin.com/in/codingconquerors/"
+    }
+  }
+}
