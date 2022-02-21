@@ -8,7 +8,7 @@ import config from '../config/index.json';
 
 const Menu = () => {
   const { navigation } = config;
-
+  const { contactUs } = config;
   return (
     <>
       <svg
@@ -37,6 +37,9 @@ const Menu = () => {
                 {item.name}
               </Link>
             ))}
+            <a href={contactUs.href} id="contactUs">
+              {contactUs.title}
+            </a>
           </div>
         </div>
 
