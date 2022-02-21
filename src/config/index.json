@@ -16,14 +16,14 @@
     {
       "name": "Pricing",
       "href": "pricing"
-    },
-
-    {
-      "name": "Contact Us",
-      "href": "mailto:codingconquerors@gmail.com?subject=I want to enroll in one of the IT courses!"
     }
   ],
 
+  "contactUs": {
+    "title": "Contact Us",
+    "href": "mailto:codingconquerors@gmail.com?subject=I want to enroll in one of the IT courses!"
+  },
+  
   "mainHero": {
     "title": "About Us",
     "description": "We are a team of highly experienced IT professionals who help IT students and IT freshers in meeting their career objectives. We transform their lives by helping them in getting IT jobs as per current IT job market requirement. We already have helped hundred of students to get jobs in IT sector.",
@@ -39,24 +39,23 @@
       },
       {
         "title": "How We Do",
-        "description": "We believe that no student is a bad student, he/she just does not get a good teacher. We reach to the level of understanding a student has and from there we help in evolving the student.",
+        "description": "We believe in the notion that no student is a bad student, it is just the gap in level of understanding a student and a teacher has which makes things complicated. We offer online courses purely based on live classes. During these live classe We reach to the level of understanding a student has and the evolution process starts from there. This is exactly opposite of learning through recorded lectures which first takes a lot longer to complete and second if student stucks at some problem it takes forever to resolve.",
         "img": "/assets/images/product2.jpg"
       }
     ]
   },
   "features": {
-    "title": "Live IT Courses ",
-    "subtitle": "We offer all the best technologies courses!",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
+    "subtitle": "Online IT courses based on live classes",
+    "description": "We provide two comprehensive all in one live courses. One of the courses is BackEnd Course based on technologies such as Java, Springboot, Kubernetes, Docker, Apache Camel and Kafka, Database interaction etc. This course is already launched. The other one is complete frontend course which we are planning to launch soon.",
     "items": [
       {
-        "name": "BackEnd Course",
-        "description": "1. Understanding basics of Microservices, MVC Design pattern, and Restful Webservices\n2. Implementing HTTP methods, exception handling in Spring Boot\n3. Interaction with database (CRUD operations. using JPA and H2 Database\n4. HATEOAS, Internationalization, Content Negotiation, Dynamic and static filtering for Restful Services\n5. Implementing Swagger documentation and Monitoring APIs with Spring Boot Actuator, HAL explorer, Restful services versioning\n6. Authentication using Spring Security and JWT\n7. Introduction to Apache camel and implementing Spring boot Webservices using apache camel routes\n8. Implementing various important Microservices concepts such as Zuul, Eureka, Ribbon and Feign, Zipkin and Hystrix\n9. Introduction to Docker and Kubernetes and use them with Spring boot Microservices\n10. Adding test cases into Microservices using Mocks (unit, functional, and integration.\n11. Introduction to Gradle and creating build.gradle file and run different tasks such as clean, build, jocoko test report, etc.\n12. Understanding CI/CD and integrating a project with the jenkins build tool\n13. How to debug a microservice project and how to do dynamic and static Code reviews\n14. Call one microservice to another microservice using synchronous and asynchronous methods\n15. Microservices Design patterns",
+        "name": "A comprehensive all in one BackEnd Course",
+        "description": "We cover each of the below topic in live classes. Every problem students face is resolved on the spot. \n 1. Understanding basics of Microservices, MVC Design pattern, and Restful Webservices\n2. Implementing HTTP methods, exception handling in Spring Boot\n3. Interaction with database (CRUD operations. using JPA and H2 Database\n4. HATEOAS, Internationalization, Content Negotiation, Dynamic and static filtering for Restful Services\n5. Implementing Swagger documentation and Monitoring APIs with Spring Boot Actuator, HAL explorer, Restful services versioning\n6. Authentication using Spring Security and JWT\n7. Introduction to Apache camel and implementing Spring boot Webservices using apache camel routes\n8. Implementing various important Microservices concepts such as Zuul, Eureka, Ribbon and Feign, Zipkin and Hystrix\n9. Introduction to Docker and Kubernetes and use them with Spring boot Microservices\n10. Adding test cases into Microservices using Mocks (unit, functional, and integration.\n11. Introduction to Gradle and creating build.gradle file and run different tasks such as clean, build, jocoko test report, etc.\n12. Understanding CI/CD and integrating a project with the jenkins build tool\n13. How to debug a microservice project and how to do dynamic and static Code reviews\n14. Call one microservice to another microservice using synchronous and asynchronous methods\n15. Microservices Design patterns",
         "icon": "/assets/images/react.png"
       },
       {
         "name": "FrontEnd Course",
-        "description": "1. Understanding basics of Microservices, MVC Design pattern, and Restful Webservices\n2. Implementing HTTP methods, exception handling in Spring Boot\n3. Interaction with database (CRUD operations. using JPA and H2 Database\n4. HATEOAS, Internationalization, Content Negotiation, Dynamic and static filtering for Restful Services\n5. Implementing Swagger documentation and Monitoring APIs with Spring Boot Actuator, HAL explorer, Restful services versioning\n6. Authentication using Spring Security and JWT\n7. Introduction to Apache camel and implementing Spring boot Webservices using apache camel routes\n8. Implementing various important Microservices concepts such as Zuul, Eureka, Ribbon and Feign, Zipkin and Hystrix\n9. Introduction to Docker and Kubernetes and use them with Spring boot Microservices\n10. Adding test cases into Microservices using Mocks (unit, functional, and integration.\n11. Introduction to Gradle and creating build.gradle file and run different tasks such as clean, build, jocoko test report, etc.\n12. Understanding CI/CD and integrating a project with the jenkins build tool\n13. How to debug a microservice project and how to do dynamic and static Code reviews\n14. Call one microservice to another microservice using synchronous and asynchronous methods\n15. Microservices Design patterns",
+        "description": "Coming soon",
         "icon": "/assets/images/tailwindcss.svg"
       }
     ]
