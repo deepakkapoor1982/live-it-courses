@@ -1,7 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
-
+/*Comment by Deepak*/
 
 :root {
   --color-primary: #ec4755;
