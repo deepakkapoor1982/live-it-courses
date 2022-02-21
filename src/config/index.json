@@ -26,7 +26,7 @@
   
   "mainHero": {
     "title": "About Us",
-    "description": "We are a team of highly experienced IT professionals who help IT students and IT freshers in meeting their career objectives. We transform their lives by helping them in getting IT jobs as per current IT job market requirement. We already have helped hundred of students to get jobs in IT sector.",
+    "description": "We are a team of highly experienced IT professionals who help IT students and IT freshers in meeting their career objectives. We transform their lives by helping them in getting IT jobs as per current IT job market requirement. We empower minds by deciphering coding skills. We have already helped hundred of students to get jobs in IT sector.",
     "img": "/assets/images/coding2.jpeg"
   },
   "product": {
@@ -64,37 +64,24 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "All in one BackEnd Course with Live Classes",
+        "price": "USD750",
+        "priceDetails": "",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Course is designed in such a way that it starts from scratch and cover every aspect upto production deployment",
+          "All the course topic are covered in live classes which help in resolving students issues spontaneously",
+          "With every course topic, corresponding interview questions are also covered which help students prepare for interview along with course topics",
+          "No question asked money back guarantee after one week of classes if a student is not satisfied",
+          "Basic java knowledge is prerequisite and Special discount for needy students",
+          "Course batch is started every month"
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "name": "All in one FrontEnd Course with Live Classes",
+        "price": "",
+        "priceDetails": "",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
-        ]
-      },
-      {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
-        "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Coming soon"
         ]
       }
     ]
@@ -102,10 +89,9 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
+          "name": "About Us",
+          "href": "#"
+        },
       {
         "name": "Something",
         "href": "#",
