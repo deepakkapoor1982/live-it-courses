@@ -1,7 +1,6 @@
-import React from "react";
+import React from 'react';
 
-import config from "../config/index.json";
-
+import config from '../config/index.json';
 import Divider from './Divider';
 
 const Features = () => {
@@ -11,13 +10,17 @@ const Features = () => {
     <div className={`py-12 bg-background`} id="features">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="container max-w-5xl mx-auto m-8">
-          <h1 className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}>
-            {features.subtitle.split(" ").map((word, index) => (
+          <h1
+            className={
+              'w-full my-2 text-5xl font-bold leading-tight text-center text-primary'
+            }
+          >
+            {features.subtitle.split(' ').map((word, index) => (
               <span
                 key={index}
-                className={index % 2 ? "text-primary" : "text-border"}
+                className={index % 2 ? 'text-primary' : 'text-border'}
               >
-                {word}{" "}
+                {word}{' '}
               </span>
             ))}
           </h1>
